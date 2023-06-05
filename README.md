@@ -33,10 +33,13 @@
 - Dit University (2018 - 2021)
   - Degree: BTech
 
-## 📫 Let's Connect!
-- Email: kmadhur07@gmail.com
-- LinkedIn: [Madhur Patari](https://www.linkedin.com/in/madhur-patari-bb5bb315b/)
-- Instagram: [@m_a_d_dy_404](https://www.instagram.com/m_a_d_dy_404/)
+## 📫 Let's Connect! 
+- ✉️ Email: kmadhur07@gmail.com
+- 💼 LinkedIn: [Madhur Patari](https://www.linkedin.com/in/madhur-patari-bb5bb315b/)
+- 🔗 LeetCode: [kmadhur07](https://leetcode.com/kmadhur07/)
+- 👥 HackerRank: [kmadhur07](https://www.hackerrank.com/kmadhur07?hr_r=1)
+- 📷 Instagram: [@m_a_d_dy_404](https://www.instagram.com/m_a_d_dy_404/)
+- 💬 Facebook: [Madhur](https://www.facebook.com/madhur.kumar.754365/)
 
 ## ⭐️ Fun Fact
 - Did you know that Java is one of the most widely used programming languages in the world? 🌍
