@@ -1,4 +1,3 @@
-````html
 <div align="center">
   <h1>Hi, I'm Madhur Patari</h1>
   <p>Software Engineer | Java Backend Developer | Spring Boot | Microservices</p>
